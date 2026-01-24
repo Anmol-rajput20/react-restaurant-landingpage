@@ -1,0 +1,28 @@
+.app_header{
+    background-color: black;
+    display : flex;
+    justify-content : space-between;
+    align-items : center;
+}
+
+.app_header_h1{
+    font-family : var(--font-base);
+    color : yellow;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    line-height : 117px;
+    font-size : 80px;
+}
+
+.app_header_h1 img{
+    width : 100%;
+}
+
+.app_image img{
+    width : 80%;
+    height : auto;
+}
+
+.app_wrapper_info{
+    margin-left: 4rem;
+}
