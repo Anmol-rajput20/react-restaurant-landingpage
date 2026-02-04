@@ -7,7 +7,7 @@
 
 .app_header_h1{
     font-family : var(--font-base);
-    color : yellow;
+    color : var(--color-golden);
     letter-spacing: 0.04em;
     text-transform: uppercase;
     line-height : 117px;
